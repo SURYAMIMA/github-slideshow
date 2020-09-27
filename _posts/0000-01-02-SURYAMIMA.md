@@ -1,6 +1,6 @@
 ---
-layout: slide
-title: "Welcome to our second slide!"
+layout: dance
+title: "Welcome to my slide!"
 ---
-Your text
-Use the left arrow to go back!
+my text
+Use the up arrow to go back!
